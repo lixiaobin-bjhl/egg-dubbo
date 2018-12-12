@@ -1,0 +1,7 @@
+{
+    "name": "egg-dubbo",
+    "version": "1.0.0",
+    "eggPlugin": {
+      "name": "dubbo"
+    }
+}
